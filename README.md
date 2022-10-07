@@ -20,7 +20,7 @@ Day 2
 6.calculator
 7.Generate paranthesis
 8.string pattern
-9.year is divided into four seasons
+9.seasons
 10.remove the words that are common in two strings
        
  Day 3
