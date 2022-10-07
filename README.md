@@ -12,7 +12,7 @@ Day 1
 10.replacing character
    
 Day 2
-1.climbing a staircase
+1.climb stairs
 2.leap year
 3.maximum number of words found in sentence
 4.Merge two lists
