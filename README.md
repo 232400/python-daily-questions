@@ -4,7 +4,7 @@ Day 1
 2.sumsquare
 3.Happy number
 4.palindrome
-5.Bread program
+5.bakery
 6.container program
 7.lexicographically sorted
 8.Decimal number
