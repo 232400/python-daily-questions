@@ -14,7 +14,7 @@ Day 1
 Day 2
 1.climb stairs
 2.leap year
-3.maximum number of words found in sentence
+3.maximum number of words 
 4.Merge two lists
 5.Basic calculator II
 6.123 456 789 *0#
