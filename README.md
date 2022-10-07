@@ -9,7 +9,7 @@ Day 1
 7.lexicographically sorted
 8.Decimal number
 9.maximum number of guests
-10.Modify the string 
+10.replacing character
    
 Day 2
 1.climbing a staircase
