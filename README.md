@@ -17,7 +17,7 @@ Day 2
 3.maximum number of words 
 4.Merge two lists
 5.Basic calculator II
-6.123 456 789 *0#
+6.calculator
 7.Generate paranthesis
 8.string pattern
 9.year is divided into four seasons
