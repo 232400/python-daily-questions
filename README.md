@@ -38,7 +38,7 @@ Day 2
  Day 4
  1.indexed
  2.student users
- 3.numbers arec smaller then the current number
+ 3.numbers are smaller then the current number
  4.valid palindrome
  5.array of integers
  6.deleting occurences
