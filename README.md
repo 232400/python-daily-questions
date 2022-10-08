@@ -42,3 +42,7 @@ Day 2
  4.valid palindrome
  5.array of integers
  6.deleting occurences
+ 7.count stored vowel strings
+ 8.roman to integer
+ 9.year is divided into four seasons
+ 10.scramble string
